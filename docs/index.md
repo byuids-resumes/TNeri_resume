@@ -8,7 +8,7 @@ title: Trevor Neri's Resume
 <div id="webaddress">
 <a href="triborneri@gmail.com">triborneri@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="www.linkedin.com/in/trevorneri">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/trevorneri">LinkedIn</a>
 | <a href="https://github.com/TNeri1">GitHub</a>
 </div>
 
