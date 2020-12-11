@@ -85,7 +85,9 @@ ___Teacher's Assistant: Data Intuition & Visualization___
 - Provided excellent mentoring and one on one help with 11+ students daily to think outside the box and use statistical analysis to come up with impactful data visualizations through the use of Tableau
 - Exercised communication skills via Microsoft Teams and Zoom daily in providing correction and effectively answering student’s questions regarding course material, readings, and projects through Tableau
 
-Buttcrack
+
+
+
 
 ### Internship
 
@@ -111,3 +113,4 @@ __Service Missionary__, Iloilo, Philippines
 Last updated: Dec 2020 -->
 
 
+<!-- GOOD JOB --->
