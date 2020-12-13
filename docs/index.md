@@ -38,7 +38,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Passion Projects & Experiences
 
-### Student Project Member
+### Data Analyst Member
 
 `September 2020 - Present`
 __Data Science Society | BYU-Idaho__, Rexburg, ID
